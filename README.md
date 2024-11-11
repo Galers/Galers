@@ -32,5 +32,6 @@ I'm Andriy Halosa a Frontend Developer.
 <div align="center">
 <img alt="Andriy GitHub stats" src="https://github-readme-stats.vercel.app/api?username=galers&show_icons=true&theme=transparent"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galers&layout=compact&&langs_count=8"/>
-<img alt="Top langs" src="https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/Galers"/>
 </div>
+
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Galers)
