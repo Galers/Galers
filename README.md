@@ -42,4 +42,4 @@ I'm Andriy Halosa a Frontend Developer.
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galers&layout=compact&&langs_count=8"/>
 </div>
 
-![](https://komarev.com/ghpvc/?username=https://github.com/Galers)
+![](https://komarev.com/ghpvc/?username=Galers)
