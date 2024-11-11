@@ -27,8 +27,7 @@ I'm Andriy Halosa a Frontend Developer.
 
 <br/>
 
-### Codewars ![image](https://github.com/user-attachments/assets/c3c81541-d395-451a-8f15-8ac3a53d2146)
-
+### Codewars
 
 <div align="center">
 <img alt="Codewars stats" src="https://www.codewars.com/users/Galers/badges/large"/>
