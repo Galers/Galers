@@ -15,12 +15,7 @@ I'm Andriy Halosa a Frontend Developer.
 
 #### Technologies
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Static Badge](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=%23000&)](#) [![Static Badge](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=%23000)
-](#) [![Static Badge](https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=%23CC6699&labelColor=%23000)
-](#) [![Static Badge](https://img.shields.io/badge/reactrouter-%23CA4245?style=for-the-badge&logo=reactrouter&logoColor=%23CA4245&labelColor=%23000)
-](#) [![Static Badge](https://img.shields.io/badge/redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=%23764ABC&labelColor=%23000)
-](#) [![Static Badge](https://img.shields.io/badge/axios-%235A29E4?style=for-the-badge&logo=axios&logoColor=%235A29E4&labelColor=%23000)
-](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Static Badge](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=%23000&)](#) [![Static Badge](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=%23000)](#) [![Static Badge](https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=%23CC6699&labelColor=%23000)](#) [![Static Badge](https://img.shields.io/badge/reactrouter-%23CA4245?style=for-the-badge&logo=reactrouter&logoColor=%23CA4245&labelColor=%23000)](#) [![Static Badge](https://img.shields.io/badge/redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=%23764ABC&labelColor=%23000)](#) [![Static Badge](https://img.shields.io/badge/axios-%235A29E4?style=for-the-badge&logo=axios&logoColor=%235A29E4&labelColor=%23000)](#)
 
 <br/>
 
