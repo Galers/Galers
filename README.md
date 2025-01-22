@@ -21,7 +21,7 @@ I'm Andriy Halosa a Frontend Developer.
 
 ### Bizness
 
-- [📄 Know about my experiences](https://drive.google.com/file/d/1OyI5fT2IK44A28e38ptwbgCJqiQBBHKV/view?usp=sharing)
+- [📄 Know about my experiences](https://drive.google.com/file/d/1d3Ckb8wmlp2vnBe-BccLuwzvYMkiYjK4/view?usp=drive_link)
 - 📧 galosaandrew@gmail.com
 - 📄 [My telegram](https://t.me/Galerss)
 
