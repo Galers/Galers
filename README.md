@@ -5,7 +5,7 @@ I'm Andriy Halosa a Frontend Developer.
 📫 Reach me out!
 
 [![Static Badge](https://img.shields.io/badge/-Andriy_Halosa-0e76a8?style=flat&logo=x&logoColor=white&color=%23000000)](https://x.com/1Galers)
-[![Linkedin Badge](https://img.shields.io/badge/-Andriy_Halosa-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andriy-halosa-b0900a302/)
+[![Linkedin Badge](https://img.shields.io/badge/-Andriy_Halosa-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andriy-halosa/)
 [![Mail Badge](https://img.shields.io/badge/-Andriy_Halosa-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:galosaandrew@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Galers-%235865f2?style=flat&logo=discord&logoColor=white&labelColor=%235865f2&cacheSeconds=https%3A%2F%2Fdiscord.com%2Fchannels%2F%40galers&link=https%3A%2F%2Fdiscord.com%2Fchannels%2F%40galers)](https://discord.com/channels/@galers)
 [![Mail Badge](https://img.shields.io/badge/-@Andriy_Halosa-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/galers_1/)
