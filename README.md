@@ -46,4 +46,3 @@ I'm Andriy Halosa a Frontend Developer.
 
 ### Profile views counter 👁️‍🗨️
 [![Andrew profile views](https://u8views.com/api/v1/github/profiles/128368888/views/day-week-month-total-count.svg)](https://u8views.com/github/Galers)
-![](https://komarev.com/ghpvc/?username=Galers)
