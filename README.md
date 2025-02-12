@@ -26,7 +26,8 @@ I'm Andriy Halosa a Frontend Developer.
 - 📄 [My telegram](https://t.me/Galerss)
 
 <br/>
-### Languages :
+
+### Languages:
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table  align="center">
