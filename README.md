@@ -10,7 +10,7 @@
 
 <br/>
 
-### 📫 Reach me out:
+### 📫 Contacts:
 
 [![X Badge](https://img.shields.io/badge/-Andriy_Halosa-0e76a8?style=flat&logo=x&logoColor=white&color=%23000000)](https://x.com/1Galers)
 [![Linkedin Badge](https://img.shields.io/badge/-Andriy_Halosa-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andriy-halosa/)
