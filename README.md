@@ -4,6 +4,8 @@ I'm Andriy Halosa a Frontend Developer.
 
 [📄 Know about my experiences](https://drive.google.com/file/d/1d3Ckb8wmlp2vnBe-BccLuwzvYMkiYjK4/view?usp=drive_link)
 
+<br/>
+
 ### 📫 Reach me out:
 
 [![X Badge](https://img.shields.io/badge/-Andriy_Halosa-0e76a8?style=flat&logo=x&logoColor=white&color=%23000000)](https://x.com/1Galers)
