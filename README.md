@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=5100&pause=1100&color=61AFEF&center=true&vCenter=true&height=65&lines=a+Front-end+Developer;a+ex+cyberSportsmen;an+Andrii" alt="a Front-end Developer, a ex-cyberSportsmen, an guy who sets himself the goal of reaching the top." />
+	<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=5100&pause=1100&color=61AFEF&center=true&vCenter=true&height=65&lines=a+Front-end+Developer;a+ex-cyberSportsmen;an+Andrii" alt="a Front-end Developer, a ex-cyberSportsmen, an guy who sets himself the goal of reaching the top." />
 </div>
 
 [📄 Know about my experiences](https://drive.google.com/file/d/1d3Ckb8wmlp2vnBe-BccLuwzvYMkiYjK4/view?usp=drive_link)
